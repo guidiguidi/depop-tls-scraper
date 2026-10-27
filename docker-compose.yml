@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  depop-scraper:
+    build: .
+    container_name: depop-tls-scraper
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data

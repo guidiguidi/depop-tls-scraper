@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 4819201,
+      "slug": "rick-owens-ramones-sneakers-size-42",
+      "title": "Rick Owens Mainline Ramones",
+      "slugUsername": "avantgardearchive",
+      "seller": {
+        "username": "avantgardearchive",
+        "slug": "avantgardearchive"
+      },
+      "price": {
+        "priceString": "€450.00",
+        "amount": "450.00",
+        "currencyCode": "EUR"
+      },
+      "sizes": ["EU 42", "US 9"],
+      "pictures": [
+        [
+          {"url": "https://media-photos.depop.com/b1/4819201/1_mock.jpg"}
+        ]
+      ]
+    },
+    {
+      "id": 4819202,
+      "slug": "balenciaga-runner-sneakers-black",
+      "title": "Balenciaga Runner Sneaker",
+      "slugUsername": "luxurystore",
+      "seller": {
+        "username": "luxurystore",
+        "slug": "luxurystore"
+      },
+      "price": {
+        "priceString": "€520.00",
+        "amount": "520.00",
+        "currencyCode": "EUR"
+      },
+      "sizes": ["EU 43"],
+      "pictures": [
+        [
+          {"url": "https://media-photos.depop.com/b1/4819202/1_mock.jpg"}
+        ]
+      ]
+    }
+  ]
+}
